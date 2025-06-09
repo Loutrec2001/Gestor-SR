@@ -1,0 +1,17 @@
+=== Métricas de Clasificación ===
+
+Accuracy: 0.8338
+
+Reporte de Clasificación:
+              precision    recall  f1-score   support
+
+       Alpha       0.83      0.84      0.83      1035
+       Betha       0.84      0.83      0.83      1035
+
+    accuracy                           0.83      2070
+   macro avg       0.83      0.83      0.83      2070
+weighted avg       0.83      0.83      0.83      2070
+
+Matriz de Confusión:
+[[870 165]
+ [179 856]]
